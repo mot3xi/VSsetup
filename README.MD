@@ -8,7 +8,7 @@ Extensions located in vsix cannot be natively installed through extensions marke
 1. https://github.com/ConsenSys/solidity-metrics - Solidity metrics 
 2. https://github.com/ConsenSys/vscode-solidity-auditor - Solidity Auditor
 
-The above are the ones which have been downloaded and installed
+The above are the ones which have been downloaded and installed. Source from https://www.w3bs3c.com/tools
 
 # Theme
 Synthwave 
