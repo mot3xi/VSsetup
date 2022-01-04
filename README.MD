@@ -26,6 +26,9 @@ Easiest way is to install neofetch
 
 Output Looks like this 
 
+### Processor Information of current gitlab instance 
+
+
 ```
 .-/+oossssoo+/-.
         `:+ssssssssssssssssss+:`
